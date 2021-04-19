@@ -1,0 +1,26 @@
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.manifest
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.application
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe.manifest
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.application
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+D:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.manifest
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.application
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe.manifest
+G:\лабы\сем 3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.application
+F:\labs\sem3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+F:\labs\sem3\Лаба 8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
